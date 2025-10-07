@@ -1,4 +1,5 @@
 RAG-Powered PDF Chat Agent Setup Guide
+
 This guide outlines the steps to create a Retrieval-Augmented Generation (RAG) agent that allows you to chat with the content of your PDF documents.
 
 1. Prerequisites
